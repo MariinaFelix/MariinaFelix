@@ -11,8 +11,8 @@ Me chamo Marina Felix, sou uma programadora Front-End, atualmente estou aprenden
 <br>
 <p>Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a criatividade se tornam código.</p>
 <br>
-<p>- :speech_balloon: Pergunte-me sobre qualquer coisa [aqui] (www.linkedin.com/in/marina-felix-960667162)</p>
-<p>- :mailbox_closed: Como me alcançar: [maarinafelixf@gmail.com] </p> 
+<p>- :speech_balloon: Pergunte-me sobre qualquer coisa no (www.linkedin.com/in/marina-felix-960667162)</p>
+<p>- :mailbox_closed: E-mail: [maarinafelixf@gmail.com] </p> 
 <br/>
 <b>### Conecte-se comigo:</b>
 <br>
