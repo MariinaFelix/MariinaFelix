@@ -1,23 +1,34 @@
-#  👩‍💻Olá! Eu sou Marina Felix
+# Olá! Seja bem-vindo(a)! 👋  
 
-🎓 **Farmacêutica em transição de carreira para Desenvolvimento Web.**  
-Apaixonada por resolver problemas, aprender novas tecnologias e transformar ideias em código.  
-Atualmente estudando **HTML, CSS e JavaScript** e desenvolvendo projetos para aprimorar minhas habilidades técnicas.  
+Sou **Marina Felix**, farmacêutica com pós-graduação em Farmácia Clínica, atualmente atuando como **Desenvolvedora Front-end** e em processo de especialização para me tornar **Data Scientist na área da Saúde**.  
+Este repositório reúne projetos que refletem minha transição de carreira, aprendizado contínuo e aplicação prática de tecnologia e dados.
 <br>
 
-### 🛠️ **Tecnologias que estou aprendendo**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🧠 Sobre mim
+Atualmente trabalho com **HTML, CSS3 e JavaScript**, desenvolvendo interfaces web funcionais, responsivas e focadas na experiência do usuário.  
+Paralelamente, estou me aprofundando em **Data Science**, utilizando **Python, SQL e Machine Learning**, com foco em análise de dados e soluções orientadas à tomada de decisão em saúde.
+
+Minha base na área da saúde me permite unir conhecimento clínico, pensamento analítico e tecnologia para criar soluções eficientes, seguras e inovadoras.
+
+<br>
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Desenvolvimento Front-end
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 📊 Data Science & Dados
+- Python  
+- SQL  
+- Machine Learning  
+- Análise e visualização de dados
 
 <br>
 
-### 🌱 **Sobre mim**
-- 🧠 Curiosa e dedicada, gosto de entender o “porquê” por trás das coisas.  
-- 🧩 Acredito que a combinação entre lógica e empatia cria soluções mais humanas.  
-- 🚀 Em constante aprendizado e busca por desafios na área tech.  
+## 🎯 Objetivo
+Desenvolver soluções que conectem **tecnologia, dados e saúde**, contribuindo para inovação, eficiência e melhor tomada de decisão no setor da saúde.
 
-<br>
 
 
 ### 🌐 **Conecte-se comigo**
@@ -30,6 +41,10 @@ Sinta-se à vontade para entrar em contato comigo:
 
 <a href="https://www.instagram.com/maarinafelix">
 <img align="left" alt="icone do instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+</a>
+
+<a href="https://mariinafelix.github.io/projeto-portfolio/">
+<img align="left" alt="icone do portfolio" width="120px" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/> 
 </a>
 <br>
 
