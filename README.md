@@ -11,6 +11,7 @@ Paralelamente, estou me aprofundando em **Data Science**, utilizando **Python, S
 Minha base na área da saúde me permite unir conhecimento clínico, pensamento analítico e tecnologia para criar soluções eficientes, seguras e inovadoras.
 
 <br>
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento Front-end
@@ -43,9 +44,6 @@ Sinta-se à vontade para entrar em contato comigo:
 <img align="left" alt="icone do instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
 
-<a href="https://mariinafelix.github.io/projeto-portfolio/">
-<img align="left" alt="icone do portfolio" width="120px" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/> 
-</a>
 <br>
 
 ---
