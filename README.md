@@ -46,6 +46,7 @@ Sinta-se à vontade para entrar em contato comigo:
 <a href="https://www.instagram.com/maarinafelix">
 <img align="left" alt="icone do instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
+<br>
 ---
 
 ✨ *"A tecnologia é o novo laboratório — e o código, a fórmula que transforma o mundo."*
