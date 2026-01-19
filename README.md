@@ -10,7 +10,7 @@ Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualme
 - 📊 Conhecimentos em dados (Python e SQL) como apoio à construção de sistemas orientados a dados  
 - 🔐 Responsabilidade com dados sensíveis e sistemas críticos, adquirida na área da saúde  
 - 📈 Interesse em projetos de tecnologia em diferentes segmentos, incluindo (mas não limitado a) saúde digital
-- 
+   
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Desenvolvimento Web
