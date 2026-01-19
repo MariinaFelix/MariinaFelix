@@ -1,38 +1,39 @@
 # 👋 Olá, eu sou a Marina Felix!   
 
-Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualmente estou em **transição de carreira para a área de Tecnologia**, com foco em **Engenharia de Dados**. Atuo como **Desenvolvedora Front-end em formação**, unindo desenvolvimento web, dados e análise crítica para criar soluções eficientes e orientadas a dados.
+Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualmente estou em **transição de carreira para a área de Tecnologia**, com foco em **Engenharia de Software**. Atuo como **Desenvolvedora Front-end em formação**, com base sólida em desenvolvimento web, lógica de programação e integração de sistemas.
 <br>
 ## 🚀 Sobre mim
 
 - 🎓 Formação em Farmácia, com forte base analítica e tomada de decisão baseada em evidências  
-- 💻 Desenvolvedora Front-end em formação (HTML, CSS3 e JavaScript)  
-- 📊 Foco em Engenharia de Dados, com estudos e projetos práticos em Python e SQL  
-- 🤖 Conhecimentos em fundamentos de Inteligência Artificial e Machine Learning  
-- 🧠 Experiência prévia na área da saúde, com responsabilidade no tratamento de dados sensíveis  
-- 📈 Interesse em projetos de dados, tecnologia, sistemas e saúde digital (sem limitação de setor)
-
+- 💻 Desenvolvedora em formação pela **Formação Dev FullStack (Dev Club)**  
+- 🧠 Interesse e estudos contínuos em **Engenharia de Software**, boas práticas, organização de código e arquitetura  
+- 📊 Conhecimentos em dados (Python e SQL) como apoio à construção de sistemas orientados a dados  
+- 🔐 Responsabilidade com dados sensíveis e sistemas críticos, adquirida na área da saúde  
+- 📈 Interesse em projetos de tecnologia em diferentes segmentos, incluindo (mas não limitado a) saúde digital
+- 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 💻 Desenvolvimento Front-end
+### 💻 Desenvolvimento Web
 - HTML5  
 - CSS3  
 - JavaScript  
 
-### 📊 Data Science & Dados
+### ⚙️ Back-end & Software
+- Node.js (em aprendizado)  
+- APIs REST  
+- Lógica de Programação  
+- Estruturação e organização de projetos  
+
+### 📊 Dados (como diferencial)
 - Python  
-- SQL
-- Pandas (em aprendizado)
-- NumPy  (em aprendizado)
-- Machine Learning  
-- Análise e visualização de dados
+- SQL  
 
 ### 🔧 Ferramentas
-- Git & GitHub  
-- VS Code  
-- APIs REST (conceitos)
+- Git & GitHub
+- VS Code
 
 ## 🎯 Objetivo
-Atuar como **Engenheira de Dados Júnior**, contribuindo para a construção de pipelines robustos, organização e qualidade de dados, apoiando análises estratégicas em diferentes segmentos, com especial afinidade por projetos em saúde digital.
+Atuar como **Engenheira de Software Júnior**, contribuindo no desenvolvimento, manutenção e evolução de sistemas, com foco em qualidade de código, aprendizado contínuo e impacto real.
 
 ### 🌐 **Conecte-se comigo**
 📫 Estou aberta a conexões e oportunidades na área de **Desenvolvimento Web**.  
@@ -45,9 +46,6 @@ Sinta-se à vontade para entrar em contato comigo:
 <a href="https://www.instagram.com/maarinafelix">
 <img align="left" alt="icone do instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
 </a>
-
-<br>
-
 ---
 
 ✨ *"A tecnologia é o novo laboratório — e o código, a fórmula que transforma o mundo."*
