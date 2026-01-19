@@ -10,7 +10,6 @@ Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualme
 - 🤖 Conhecimentos em fundamentos de Inteligência Artificial e Machine Learning  
 - 🧠 Experiência prévia na área da saúde, com responsabilidade no tratamento de dados sensíveis  
 - 📈 Interesse em projetos de dados, tecnologia, sistemas e saúde digital (sem limitação de setor)
-<br>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -32,12 +31,8 @@ Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualme
 - VS Code  
 - APIs REST (conceitos)
 
-<br>
-
 ## 🎯 Objetivo
 Atuar como **Engenheira de Dados Júnior**, contribuindo para a construção de pipelines robustos, organização e qualidade de dados, apoiando análises estratégicas em diferentes segmentos, com especial afinidade por projetos em saúde digital.
-
-<br>
 
 ### 🌐 **Conecte-se comigo**
 📫 Estou aberta a conexões e oportunidades na área de **Desenvolvimento Web**.  
