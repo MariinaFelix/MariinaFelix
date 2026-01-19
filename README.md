@@ -1,15 +1,15 @@
-# Olá! Seja bem-vindo(a)! 👋  
+# 👋 Olá, eu sou a Marina Felix!   
 
-Sou **Marina Felix**, farmacêutica com pós-graduação em Farmácia Clínica, atualmente atuando como **Desenvolvedora Front-end** e em processo de especialização para me tornar **Data Scientist na área da Saúde**.  
-Este repositório reúne projetos que refletem minha transição de carreira, aprendizado contínuo e aplicação prática de tecnologia e dados.
+Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualmente estou em **transição de carreira para a área de Tecnologia**, com foco em **Engenharia de Dados**. Atuo como **Desenvolvedora Front-end em formação**, unindo desenvolvimento web, dados e análise crítica para criar soluções eficientes e orientadas a dados.
 <br>
+## 🚀 Sobre mim
 
-## 🧠 Sobre mim
-Atualmente trabalho com **HTML, CSS3 e JavaScript**, desenvolvendo interfaces web funcionais, responsivas e focadas na experiência do usuário.  
-Paralelamente, estou me aprofundando em **Data Science**, utilizando **Python, SQL e Machine Learning**, com foco em análise de dados e soluções orientadas à tomada de decisão em saúde.
-
-Minha base na área da saúde me permite unir conhecimento clínico, pensamento analítico e tecnologia para criar soluções eficientes, seguras e inovadoras.
-
+- 🎓 Formação em Farmácia, com forte base analítica e tomada de decisão baseada em evidências  
+- 💻 Desenvolvedora Front-end em formação (HTML, CSS3 e JavaScript)  
+- 📊 Foco em Engenharia de Dados, com estudos e projetos práticos em Python e SQL  
+- 🤖 Conhecimentos em fundamentos de Inteligência Artificial e Machine Learning  
+- 🧠 Experiência prévia na área da saúde, com responsabilidade no tratamento de dados sensíveis  
+- 📈 Interesse em projetos de dados, tecnologia, sistemas e saúde digital (sem limitação de setor)
 <br>
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -21,16 +21,23 @@ Minha base na área da saúde me permite unir conhecimento clínico, pensamento 
 
 ### 📊 Data Science & Dados
 - Python  
-- SQL  
+- SQL
+- Pandas (em aprendizado)
+- NumPy  (em aprendizado)
 - Machine Learning  
 - Análise e visualização de dados
+
+### 🔧 Ferramentas
+- Git & GitHub  
+- VS Code  
+- APIs REST (conceitos)
 
 <br>
 
 ## 🎯 Objetivo
-Desenvolver soluções que conectem **tecnologia, dados e saúde**, contribuindo para inovação, eficiência e melhor tomada de decisão no setor da saúde.
+Atuar como **Engenheira de Dados Júnior**, contribuindo para a construção de pipelines robustos, organização e qualidade de dados, apoiando análises estratégicas em diferentes segmentos, com especial afinidade por projetos em saúde digital.
 
-
+<br>
 
 ### 🌐 **Conecte-se comigo**
 📫 Estou aberta a conexões e oportunidades na área de **Desenvolvimento Web**.  
