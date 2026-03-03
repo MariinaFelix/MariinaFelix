@@ -19,7 +19,7 @@ Sou **Farmacêutica**, com pós-graduação em **Farmácia Clínica**, e atualme
 - JavaScript  
 
 ### ⚙️ Back-end & Software
-- Node.js (em aprendizado)  
+- Node.js  
 - APIs REST  
 - Lógica de Programação  
 - Estruturação e organização de projetos  
